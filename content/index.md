@@ -1,6 +1,13 @@
 ---
-title: Welcome to Quartz
+title: Table of Contents
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+Hi. My name is Gautam Singh. You can see my notes and other writings in this
+place.
+
+---
+
+## Mathematics
+
+- [[Real Analysis]]
+- [[Probability Theory]]
