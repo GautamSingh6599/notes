@@ -1,10 +1,21 @@
 # Notes
 
-> My assorted notes on various topics. Once in a while, I organise things and clean house.
+> My assorted notes and information dumps on various topics. Once in a while, I organise things and clean house.
+
+- [[Module Theory]]
+- [[Data Structures]]
+- [[Linear Algebra]]
+- [[Algorithms]]
+- [[Real Analysis]]
+- [[Measure Theory]]
+
+# Essays
+
+# Paper Shelf
 
 ---
 
-# About Me
+## About Me
 
 My name is Gautam Singh. Currently I am at Indian Institute of Science, Education and Research, Kolkata. On a give day, I am interested in reading about $n = 5$ things. This results in me not doing anything at all. But I get to have a mountain of notes, that I might never open.
 
